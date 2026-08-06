@@ -16,6 +16,28 @@ const translations = {
      ---------------------------------------------------------- */
   en: {
 
+    /* ---- Page titles & meta descriptions (for SEO) ---- */
+    page_title_home:         "HeyReg — Regulatory Affairs Consulting",
+    page_desc_home:          "HeyReg — Regulatory Affairs Consulting for Health, Wellness, and Medical Technology Products in Costa Rica.",
+    page_title_about:        "About Us — HeyReg",
+    page_desc_about:         "About HeyReg — our story, mission, vision, values, and team.",
+    page_title_services:     "Services — HeyReg",
+    page_desc_services:      "HeyReg Services — Regulatory Compliance, Health Registrations, Record Maintenance, Pre-qualifications, State Control, and more.",
+    page_title_contact:      "Contact — HeyReg",
+    page_desc_contact:       "Contact HeyReg — reach us by WhatsApp or email.",
+    page_title_contact_form: "Send a Message — HeyReg",
+    page_desc_contact_form:  "Send HeyReg a message — fill out the contact form and we'll reply within 24 business hours.",
+    page_title_privacy:      "Privacy Policy — HeyReg",
+    page_title_terms:        "Terms & Conditions — HeyReg",
+    page_title_rc:           "Regulatory Compliance — HeyReg",
+    page_title_hr:           "Health Registrations — HeyReg",
+    page_title_hrm:          "Health Record Maintenance — HeyReg",
+    page_title_pq:           "Pre-qualifications — HeyReg",
+    page_title_ce:           "State Control — HeyReg",
+    page_title_ros:          "Regulatory Operational Services — HeyReg",
+    page_title_rpa:          "Regulatory Process Automation — HeyReg",
+    page_title_st:           "Simple Translations — HeyReg",
+
     /* ---- Shared: Navbar ---- */
     nav_home:              "Home",
     nav_about:             "About Us",
@@ -148,9 +170,9 @@ const translations = {
     about_mv_label:       "Our Direction",
     about_mv_title:       "Mission & Vision",
     about_mission_title:  "Mission",
-    about_mission_text:   "To make health registration a clear and precise process; so that pharmaceuticals, medical devices, biologics, food products, supplements, and natural products reach those who need them, without delay or detours.",
+    about_mission_text:   "To make health registration a clear and precise process; so that medicines, medical devices, biologics, food products, supplements, and natural products reach those who need them — without delay or detours.",
     about_vision_title:   "Vision",
-    about_vision_text:    "For every company that wants to operate in the health ecosystem of Costa Rica and Latin America to choose us first: for the precision of our work and the clarity with which we deliver it.",
+    about_vision_text:    "For every company seeking to operate in the health ecosystem of Costa Rica and Latin America to choose us first: for the precision of our work and the clarity with which we deliver it.",
 
     about_values_label: "Our Values",
     about_values_title: "What We Stand For",
@@ -798,6 +820,28 @@ const translations = {
      ---------------------------------------------------------- */
   es: {
 
+    /* ---- Page titles & meta descriptions (for SEO) ---- */
+    page_title_home:         "HeyReg — Consultoría en Asuntos Regulatorios",
+    page_desc_home:          "HeyReg — Consultoría en Asuntos Regulatorios para productos de salud, bienestar y tecnología médica en Costa Rica.",
+    page_title_about:        "Quiénes Somos — HeyReg",
+    page_desc_about:         "HeyReg — nuestra historia, misión, visión, valores y equipo.",
+    page_title_services:     "Servicios — HeyReg",
+    page_desc_services:      "Servicios de HeyReg — Cumplimiento Regulatorio, Inscripciones Sanitarias, Mantenimiento de Registros, Precalificaciones, Control Estatal y más.",
+    page_title_contact:      "Contacto — HeyReg",
+    page_desc_contact:       "Contáctenos en HeyReg — por WhatsApp o correo electrónico.",
+    page_title_contact_form: "Enviar Mensaje — HeyReg",
+    page_desc_contact_form:  "Envíenos un mensaje — complete el formulario y le responderemos en 24 horas hábiles.",
+    page_title_privacy:      "Política de Privacidad — HeyReg",
+    page_title_terms:        "Términos y Condiciones — HeyReg",
+    page_title_rc:           "Cumplimiento Regulatorio — HeyReg",
+    page_title_hr:           "Inscripciones Sanitarias — HeyReg",
+    page_title_hrm:          "Mantenimiento de Registros Sanitarios — HeyReg",
+    page_title_pq:           "Precalificaciones — HeyReg",
+    page_title_ce:           "Control Estatal — HeyReg",
+    page_title_ros:          "Servicios Operativos Regulatorios — HeyReg",
+    page_title_rpa:          "Automatización de Procesos Regulatorios — HeyReg",
+    page_title_st:           "Traducciones Simples — HeyReg",
+
     /* ---- Shared: Navbar ---- */
     nav_home:              "Inicio",
     nav_about:             "Quiénes Somos",
@@ -1387,7 +1431,7 @@ const translations = {
     rpa_breadcrumb_services: "Servicios",
     rpa_breadcrumb_current:  "Automatización Regulatoria",
     rpa_overview_label: "Descripción del Servicio",
-    rpa_overview_title: "Optimice sus Procesos. Reduzca Tiempos Operativos.",
+    rpa_overview_title: "Optimice sus Procesos. Reduzca los Tiempos Operativos.",
     rpa_overview_p1: "Desarrollamos soluciones de automatización a la medida para optimizar la gestión de sus procesos regulatorios, mejorando la eficiencia y reduciendo tiempos operativos. Implementamos herramientas tecnológicas adaptadas a las necesidades específicas de su empresa para transformar la gestión regulatoria.",
     rpa_included_label: "Alcance del Servicio",
     rpa_included_title: "Qué Incluye",
@@ -1424,7 +1468,7 @@ const translations = {
     rpa_step1_desc:  "Analizamos los procesos regulatorios actuales y sus puntos de fricción.",
     rpa_step2_title: "Identificación de Oportunidades",
     rpa_step2_desc:  "Detectamos qué procesos pueden automatizarse o mejorarse.",
-    rpa_step3_title: "Diseño de Solución",
+    rpa_step3_title: "Diseño de la Solución",
     rpa_step3_desc:  "Desarrollamos una propuesta tecnológica adaptada a sus necesidades.",
     rpa_step4_title: "Implementación",
     rpa_step4_desc:  "Desarrollamos e integramos las herramientas de automatización.",

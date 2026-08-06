@@ -366,6 +366,18 @@
       }
     });
 
+    /* Update <title> and <meta name="description"> for SEO */
+    const titleEl = document.querySelector('title[data-i18n]');
+    if (titleEl) {
+      const titleKey = titleEl.getAttribute('data-i18n');
+      if (translations[lang][titleKey]) document.title = translations[lang][titleKey];
+    }
+    const descEl = document.querySelector('meta[name="description"][data-i18n]');
+    if (descEl) {
+      const descKey = descEl.getAttribute('data-i18n');
+      if (translations[lang][descKey]) descEl.setAttribute('content', translations[lang][descKey]);
+    }
+
     /* Sync the HTML lang attribute (accessibility + SEO) */
     document.documentElement.setAttribute('lang', lang);
 
